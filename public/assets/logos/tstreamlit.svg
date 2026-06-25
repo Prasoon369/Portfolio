@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="streamlit-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF4B4B"/>
+      <stop offset="100%" stop-color="#FF8181"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#streamlit-gradient)"/>
+
+  <!-- Abstract layered "streaming" ribbons -->
+  <path d="M14 24 L34 24 L26 32 L46 32" stroke="#FFFFFF" stroke-width="4.5"
+        stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M18 34 L38 34 L30 42 L50 42" stroke="#FFFFFF" stroke-width="4.5"
+        stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.7"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dotnet-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5C2D91"/>
+      <stop offset="100%" stop-color="#8A4FFF"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#dotnet-gradient)"/>
+
+  <text x="32" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700"
+        text-anchor="middle" fill="#FFFFFF">.NET</text>
+</svg>
